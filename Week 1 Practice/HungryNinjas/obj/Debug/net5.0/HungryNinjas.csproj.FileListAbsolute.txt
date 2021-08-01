@@ -1,0 +1,16 @@
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\bin\Debug\net5.0\HungryNinjas.exe
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\bin\Debug\net5.0\HungryNinjas.deps.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\bin\Debug\net5.0\HungryNinjas.runtimeconfig.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\bin\Debug\net5.0\HungryNinjas.runtimeconfig.dev.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\bin\Debug\net5.0\HungryNinjas.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\bin\Debug\net5.0\ref\HungryNinjas.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\bin\Debug\net5.0\HungryNinjas.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\obj\Debug\net5.0\HungryNinjas.csproj.AssemblyReference.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\obj\Debug\net5.0\HungryNinjas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\obj\Debug\net5.0\HungryNinjas.AssemblyInfoInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\obj\Debug\net5.0\HungryNinjas.AssemblyInfo.cs
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\obj\Debug\net5.0\HungryNinjas.csproj.CoreCompileInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\obj\Debug\net5.0\HungryNinjas.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\obj\Debug\net5.0\ref\HungryNinjas.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\obj\Debug\net5.0\HungryNinjas.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\HungryNinjas\obj\Debug\net5.0\HungryNinjas.genruntimeconfig.cache

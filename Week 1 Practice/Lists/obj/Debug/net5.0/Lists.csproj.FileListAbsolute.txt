@@ -1,0 +1,16 @@
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\bin\Debug\net5.0\Lists.exe
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\bin\Debug\net5.0\Lists.deps.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\bin\Debug\net5.0\Lists.runtimeconfig.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\bin\Debug\net5.0\Lists.runtimeconfig.dev.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\bin\Debug\net5.0\Lists.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\bin\Debug\net5.0\ref\Lists.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\bin\Debug\net5.0\Lists.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\obj\Debug\net5.0\Lists.csproj.AssemblyReference.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\obj\Debug\net5.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\obj\Debug\net5.0\Lists.AssemblyInfoInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\obj\Debug\net5.0\Lists.AssemblyInfo.cs
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\obj\Debug\net5.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\obj\Debug\net5.0\Lists.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\obj\Debug\net5.0\ref\Lists.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\obj\Debug\net5.0\Lists.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Lists\obj\Debug\net5.0\Lists.genruntimeconfig.cache

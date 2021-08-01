@@ -1,0 +1,16 @@
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\bin\Debug\net5.0\ClassMembers.exe
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\bin\Debug\net5.0\ClassMembers.deps.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\bin\Debug\net5.0\ClassMembers.runtimeconfig.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\bin\Debug\net5.0\ClassMembers.runtimeconfig.dev.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\bin\Debug\net5.0\ClassMembers.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\bin\Debug\net5.0\ref\ClassMembers.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\bin\Debug\net5.0\ClassMembers.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\obj\Debug\net5.0\ClassMembers.csproj.AssemblyReference.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\obj\Debug\net5.0\ClassMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\obj\Debug\net5.0\ClassMembers.AssemblyInfoInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\obj\Debug\net5.0\ClassMembers.AssemblyInfo.cs
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\obj\Debug\net5.0\ClassMembers.csproj.CoreCompileInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\obj\Debug\net5.0\ClassMembers.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\obj\Debug\net5.0\ref\ClassMembers.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\obj\Debug\net5.0\ClassMembers.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\ClassMembers\obj\Debug\net5.0\ClassMembers.genruntimeconfig.cache

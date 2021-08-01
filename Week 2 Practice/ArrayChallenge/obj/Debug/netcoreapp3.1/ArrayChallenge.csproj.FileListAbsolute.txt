@@ -1,0 +1,13 @@
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\obj\Debug\netcoreapp3.1\ArrayChallenge.csprojAssemblyReference.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\obj\Debug\netcoreapp3.1\ArrayChallenge.AssemblyInfoInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\obj\Debug\netcoreapp3.1\ArrayChallenge.AssemblyInfo.cs
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\obj\Debug\netcoreapp3.1\ArrayChallenge.csproj.CoreCompileInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\bin\Debug\netcoreapp3.1\ArrayChallenge.exe
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\bin\Debug\netcoreapp3.1\ArrayChallenge.deps.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\bin\Debug\netcoreapp3.1\ArrayChallenge.runtimeconfig.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\bin\Debug\netcoreapp3.1\ArrayChallenge.runtimeconfig.dev.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\bin\Debug\netcoreapp3.1\ArrayChallenge.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\bin\Debug\netcoreapp3.1\ArrayChallenge.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\obj\Debug\netcoreapp3.1\ArrayChallenge.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\obj\Debug\netcoreapp3.1\ArrayChallenge.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 2 Practice\ArrayChallenge\obj\Debug\netcoreapp3.1\ArrayChallenge.genruntimeconfig.cache

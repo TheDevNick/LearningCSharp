@@ -1,0 +1,13 @@
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\bin\Debug\netcoreapp3.1\IENum.exe
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\bin\Debug\netcoreapp3.1\IENum.deps.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\bin\Debug\netcoreapp3.1\IENum.runtimeconfig.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\bin\Debug\netcoreapp3.1\IENum.runtimeconfig.dev.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\bin\Debug\netcoreapp3.1\IENum.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\bin\Debug\netcoreapp3.1\IENum.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\obj\Debug\netcoreapp3.1\IENum.csprojAssemblyReference.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\obj\Debug\netcoreapp3.1\IENum.AssemblyInfoInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\obj\Debug\netcoreapp3.1\IENum.AssemblyInfo.cs
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\obj\Debug\netcoreapp3.1\IENum.csproj.CoreCompileInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\obj\Debug\netcoreapp3.1\IENum.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\obj\Debug\netcoreapp3.1\IENum.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\IENum\obj\Debug\netcoreapp3.1\IENum.genruntimeconfig.cache

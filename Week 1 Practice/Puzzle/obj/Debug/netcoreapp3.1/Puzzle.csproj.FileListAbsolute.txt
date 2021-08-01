@@ -1,0 +1,13 @@
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.exe
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.deps.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.runtimeconfig.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.runtimeconfig.dev.json
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\bin\Debug\netcoreapp3.1\Puzzle.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.csprojAssemblyReference.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.AssemblyInfoInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.AssemblyInfo.cs
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.dll
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.pdb
+C:\Users\holli\Desktop\CodingDojo\C#\Week 1 Practice\Puzzle\obj\Debug\netcoreapp3.1\Puzzle.genruntimeconfig.cache
